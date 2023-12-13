@@ -1,0 +1,40 @@
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.AssemblyReference.cache
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.GenerateResource.cache
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.CoreCompileInputs.cache
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+D:\OOP\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+C:\Users\Admin\Desktop\XiangQi_11_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.AssemblyReference.cache
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.GenerateResource.cache
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.CoreCompileInputs.cache
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\XiangQi_21_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.AssemblyReference.cache
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.GenerateResource.cache
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.csproj.CoreCompileInputs.cache
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\XiangQi_24_10_23\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb

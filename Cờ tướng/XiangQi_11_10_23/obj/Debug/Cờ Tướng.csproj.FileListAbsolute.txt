@@ -1,0 +1,35 @@
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.AssemblyReference.cache
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.GenerateResource.cache
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.CoreCompileInputs.cache
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.NewGame.resources
+C:\Users\engla\OneDrive\Máy tính\Cờ Tướng Hoàn Thành\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.AssemblyReference.cache
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.NewGame.resources
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.GenerateResource.cache
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.CoreCompileInputs.cache
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb
+C:\Users\engla\OneDrive\Máy tính\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.GameOver.resources
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe.config
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.exe
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\bin\Debug\XiangQi_11_10_23.pdb
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Form1.resources
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.GameOver.resources
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.NewGame.resources
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.Properties.Resources.resources
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\Cờ Tướng.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.exe
+C:\Users\Admin\Downloads\Cờ tướng\XiangQi_11_10_23\obj\Debug\XiangQi_11_10_23.pdb
